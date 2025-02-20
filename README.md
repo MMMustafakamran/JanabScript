@@ -10,6 +10,8 @@ Table of Contents
 •	Identifiers
 •	Examples
 •	Conclusion
+
+
 Datatypes
 JanabScript supports several core datatypes:
 •	Integer 
